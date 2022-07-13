@@ -1,0 +1,17 @@
+{
+	"name": "chiasheng96/package-test
+",
+	"description": "Test",
+	"type": "library",
+	"license": "MIT",
+	"keywords": [
+		"noty",
+		"notification"
+	],
+	"authors": [
+		{
+			"name": "Nedim Arabaci"
+		}
+	],
+	"minimum-stability": "dev"
+}
